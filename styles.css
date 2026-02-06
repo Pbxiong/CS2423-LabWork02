@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-image: url("images/techfest.jpeg");
+    background-image: url("techfest.jpeg");
 	background-size: cover;       
     background-position: center;  
     background-repeat: no-repeat;
